@@ -3,12 +3,14 @@
 歡迎對於提升廢土伺服器遊戲環境，甚至台灣當個創世神伺服器能見度，躍躍欲試的夥伴加入我們！
 
 ▲ 關於 mcFallout.net
+
 我們是《當個創世神》廢土社群，是台灣、香港、澳門最大的《當個創世神》生存伺服器。
 我們提供Java版本的伺服器遊玩，並以立下台灣伺服器標竿作為目標。
 
 我們也是目前台灣唯一《 當個創世神》伺服器中受到 Discord 官方認證的合作夥伴。
 
 ▲ 為什麼你該選擇 廢土伺服器 mcFallout.net
+
 加入 廢土伺服器 mcFallout.net，你會與LogoCat，和擁有堅實技術背景及經驗的人一起合作，創造台灣Minecraft伺服器的巔峰。
 並且不時與各大知名廠商（如NVIDIA、AORUS、MSI、ROG、ZOTAC）進行合作連動，累積你的實習、工作履歷。
 <https://www.mcfallout.net/business.html>
